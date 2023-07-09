@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Solomon Muhye</h1>
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+<h3 align="center">A passionate web and mobile developer from Ethiopia</h3>
 
 - 🌱 I’m currently learning **Node js, MongoDB**
 
