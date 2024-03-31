@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Solomon Muhye</h1>
 <h3 align="center">A passionate web and mobile developer from Ethiopia</h3>
 
-- 🌱 I’m currently learning **Node js, MongoDB**
+- 🌱 I’m currently learning **Node js, MongoDB, NextJs**
 
 - 📫 How to reach me **solomon.muhye.wd@gmail.com**
 - 📫 How to reach me **solomonmuhye12@gmail.com**
