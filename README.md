@@ -10,8 +10,7 @@
 - 👨‍💻 All of my projects are available at [https://solomommuhye.netlify.app/](https://solomommuhye.netlify.app/)
 
 - 📫 How to reach me **solomonmuhye12@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 📫 How to reach me **solomon.muhye.wd@gmail.com**
 <p align="left">
 </p>
 
