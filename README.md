@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Solomon</h1>
 
 ## I'm a passionate full-stack developer based in Ethiopia. 
- `currently interning at ICT4D  and working with Django`
+ `currently interning at ICT4D research center and working with Django`
  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonmuhyey&label=Profile%20views&color=0e75b6&style=flat" alt="solomonmuhyey" /> </p>
 
