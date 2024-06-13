@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Solomon</h1>
 
-## I'm a passionate full-stack developer based in Ethiopia.
+## I'm a passionate full-stack developer based in Ethiopia. 
  `currently interning at ICT4D  and working with Django`
+ <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonmuhyey&label=Profile%20views&color=0e75b6&style=flat" alt="solomonmuhyey" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonmuhyey" alt="solomonmuhyey" /></a>
@@ -14,8 +15,6 @@
 - [solomon.muhye.wd@gmail.com](mailto:solomon.muhye.wd@gmail.com)
 
 ---
-
-Explore my well-organized and thoughtfully documented repositories!
 
 ## 💼 Skills
 - Fast Learner, adept at keeping up with new technologies
