@@ -12,12 +12,28 @@
 <br/><br/>
 </p>
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+
+## Languages:
+`html included 😁 - Like building blocks for the web!`
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" />
   </a>
 </p>
 
+## Frameworks:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,materialui,react,redux,django,express" />
+  </a>
+</p>
+
+## Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vite,nodejs,mongodb,mysql,postgres,sqlite" />
+  </a>
+</p>
 <br/><br/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonmuhyey&show_icons=true&locale=en&layout=compact" alt="solomonmuhyey" /></p>
 
