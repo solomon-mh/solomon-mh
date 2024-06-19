@@ -5,7 +5,11 @@
  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonmuhyey&label=Profile%20views&color=0e75b6&style=flat" alt="solomonmuhyey" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=solomonmuhyey" alt="solomonmuhyey" /></a>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=solomonmuhyey&theme=darkhub&margin-w=15" alt="solomonmuhyey" />
+  </a>
+</p>
 
 
 👨‍💻 Check out my portfolio: [solomommuhye.vercel.app](https://solomommuhye.vercel.app/)
@@ -42,8 +46,20 @@
   </a>
 </p>
 <br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonmuhyey&show_icons=true&locale=en&layout=compact" alt="solomonmuhyey" /></p>
+<table>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonmuhyey&theme=dark" alt="solomonmuhyey" />
+    </td>
+    <td rowspan="2">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonmuhyey&show_icons=true&locale=en&layout=compact&theme=dark" alt="solomonmuhyey" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=solomonmuhyey&show_icons=true&locale=en&theme=dark" alt="solomonmuhyey" />
+    </td>
+  </tr>
+</table>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=solomonmuhyey&show_icons=true&locale=en" alt="solomonmuhyey" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonmuhyey&" alt="solomonmuhyey" /></p>
+<br/>
