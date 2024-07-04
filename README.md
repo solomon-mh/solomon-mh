@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Solomon</h1>
+<h2 align="left">Hi 👋, I'm Solomon</h2>
 
 ## I'm a passionate full-stack developer based in Ethiopia. 
  `currently interning at ICT4D research center and working with Django`
