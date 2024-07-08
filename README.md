@@ -35,7 +35,7 @@
 ## Frameworks:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,materialui,react,redux,django,express" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,materialui,react,redux,nextjs,django,express" />
   </a>
 </p>
 
