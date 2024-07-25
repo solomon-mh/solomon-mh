@@ -3,11 +3,11 @@
 ## I'm a passionate full-stack developer based in Ethiopia. 
  `currently interning at ICT4D research center and working with Django`
  <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomonmuhyey&label=Profile%20views&color=0e75b6&style=flat" alt="solomonmuhyey" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-mh&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-mh" /> </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=solomonmuhyey&theme=darkhub&margin-w=15" alt="solomonmuhyey" />
+    <img src="https://github-profile-trophy.vercel.app/?username=solomon-mh&theme=darkhub&margin-w=15" alt="solomon-mh" />
   </a>
 </p>
 
@@ -49,15 +49,15 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=solomonmuhyey&theme=dark" alt="solomonmuhyey" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=solomon-mh&theme=dark" alt="solomon-mh" />
     </td>
     <td rowspan="2">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomonmuhyey&show_icons=true&locale=en&layout=compact&theme=dark" alt="solomonmuhyey" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon-mh&show_icons=true&locale=en&layout=compact&theme=dark" alt="solomon-mh" />
     </td>
   </tr>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=solomonmuhyey&show_icons=true&locale=en&theme=dark" alt="solomonmuhyey" />
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=solomon-mh&show_icons=true&locale=en&theme=dark" alt="solomon-mh" />
     </td>
   </tr>
 </table>
