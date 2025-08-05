@@ -12,7 +12,7 @@
 </p>
 
 
-👨‍💻 Check out my portfolio: [solomommuhye.vercel.app](https://solomommuhye.vercel.app/)
+👨‍💻 Check out my portfolio: [solomommuhye](https://solomon-muhye-portfolio.vercel.app/)
 
 📧 Reach me at:
 - [solomonmuhye12@gmail.com](mailto:solomonmuhye12@gmail.com)
@@ -25,7 +25,6 @@
 - Innovative Thinker, skilled in devising creative solutions
 
 ## Languages:
-`html included 😁 - Like building blocks for the web!`
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" />
