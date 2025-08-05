@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Solomon</h2>
 
-## Full-stack developer | MERN | NestJS | NEXTJS | Laravel. 
+## Full-stack developer | MERN | NextJs | NestJS  | Laravel. 
  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-mh&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-mh" /> </p>
 
