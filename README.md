@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋, I'm Solomon</h2>
 
-## I'm a passionate full-stack developer based in Ethiopia. 
+## Full-stack developer | MERN | NestJS | NEXTJS | Laravel. 
  `currently learning and working with Laravel 👨‍💻`
  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-mh&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-mh" /> </p>
