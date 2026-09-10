@@ -50,18 +50,20 @@ solomon@dev:~$ ./run stack.sh
 solomon@dev:~$ curl --stats github/solomon-mh
 ```
 
-<p align="center">
-  <img src="./profile-assets/stats.svg" width="49%" />
-  <img src="./profile-assets/top-langs.svg" width="49%" />
-</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=solomon-mh&show_icons=true&locale=en&hide_border=true&theme=tokyonight&card_width=380&hide_rank=true" width="380" /></td>
+    <td><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=solomon-mh&layout=compact&locale=en&hide_border=true&theme=tokyonight&card_width=380&langs_count=6" width="380" /></td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="./profile-assets/streak.svg" />
+  <img src="https://streak-stats.demolab.com/?user=solomon-mh&hide_border=true&theme=tokyonight" width="760" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="./profile-assets/trophies.svg" alt="trophies" />
+    <img src="https://github-trophies.devomb.com/?username=solomon-mh&theme=tokyonight&column=4&row=2&margin-w=4&margin-h=4&no-frame=true" width="600" alt="trophies" />
   </a>
 </p>
 
