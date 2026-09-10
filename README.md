@@ -1,63 +1,74 @@
-<h2 align="left">Hi 👋, I'm Solomon</h2>
+# Hi, I'm Solomon 👋
 
-## Full-stack developer | MERN | NextJs | NestJS  | Laravel. 
- <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=solomon-mh&label=Profile%20views&color=0e75b6&style=flat" alt="solomon-mh" /> </p>
+**Full-Stack Developer** · MERN · Next.js · NestJS · Laravel
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=solomon-mh&theme=darkhub&margin-w=15" alt="solomon-mh" />
-  </a>
+  <img src="https://img.shields.io/badge/whoami-solomon--mh-7aa2f7?style=flat-square&logo=gnu-bash&logoColor=7aa2f7&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/status-online-9ece6a?style=flat-square&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=solomon-mh&label=views&color=1a1b26&style=flat-square" alt="profile views" />
 </p>
-
-
-👨‍💻 Check out my portfolio: [solomommuhye](https://solomon-muhye-portfolio.vercel.app/)
-
-📧 Reach me at:
-- [solomonmuhye12@gmail.com](mailto:solomonmuhye12@gmail.com)
-- [solomon.muhye.wd@gmail.com](mailto:solomon.muhye.wd@gmail.com)
-
----
-
-## 💼 Skills
-- Fast Learner, adept at keeping up with new technologies
-- Innovative Thinker, skilled in devising creative solutions
-
-## Languages:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php" />
-  </a>
-</p>
-
-## Frameworks:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,sass,materialui,react,redux,nextjs,django,express" />
-  </a>
-</p>
-
-## Tools:
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vite,nodejs,mongodb,mysql,postgres,sqlite" />
-  </a>
-</p>
-<br/><br/>
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=solomon-mh&theme=dark" alt="solomon-mh" />
-    </td>
-    <td rowspan="2">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=solomon-mh&show_icons=true&locale=en&layout=compact&theme=dark" alt="solomon-mh" />
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api?username=solomon-mh&show_icons=true&locale=en&theme=dark" alt="solomon-mh" />
-    </td>
-  </tr>
-</table>
 
 <br/>
+
+```bash
+solomon@dev:~$ cat about.txt
+```
+
+```
+> Full-stack developer specializing in MERN, Next.js, NestJS & Laravel
+> Fast learner — always shipping something new
+> Turns coffee ☕ into code, and bugs 🐛 into features
+```
+
+```bash
+solomon@dev:~$ ls contact/
+```
+
+| channel | link |
+|---|---|
+| 📧 email | [solomon.muhye.wd@gmail.com](mailto:solomon.muhye.wd@gmail.com) |
+| 📧 email (alt) | [solomonmuhye12@gmail.com](mailto:solomonmuhye12@gmail.com) |
+| 🌐 portfolio | [solomon-muhye-portfolio.vercel.app](https://solomon-muhye-portfolio.vercel.app/) |
+
+<br/>
+
+```bash
+solomon@dev:~$ ./run stack.sh
+```
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,bootstrap,tailwind,sass,materialui,react,redux,nextjs,django,express&theme=dark" />
+</p>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker,vite,nodejs,mongodb,mysql,postgres,sqlite&theme=dark" />
+</p>
+
+<br/>
+
+```bash
+solomon@dev:~$ curl --stats github/solomon-mh
+```
+
+<p align="center">
+  <img src="./profile-assets/stats.svg" width="49%" />
+  <img src="./profile-assets/top-langs.svg" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./profile-assets/streak.svg" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="./profile-assets/trophies.svg" alt="trophies" />
+  </a>
+</p>
+
+<br/>
+
+```bash
+solomon@dev:~$ echo "thanks for stopping by"
+> thanks for stopping by
+solomon@dev:~$ █
+```
