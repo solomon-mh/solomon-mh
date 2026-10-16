@@ -12,6 +12,4 @@ platform, my pre-release test plan caught guests being charged tax twice.
 - **Automation:** Playwright, Vitest, Jest, React Testing Library, GitHub Actions quality gates
 - **Tracking:** Jira
 
-Case studies, defect reports and test plans: **[solomonmuhye.et](https://solomonmuhye.et)**
-
 📧 solomon.muhye.wd@gmail.com · [LinkedIn](https://linkedin.com/in/solomonmuhye)
