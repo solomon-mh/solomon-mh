@@ -1,15 +1,15 @@
 # Solomon Muhye
 
-**QA Engineer** · Addis Ababa, Ethiopia
+**Software Engineer · Full-Stack Web Developer** · Addis Ababa, Ethiopia
 
-I plan tests, investigate defects and sign off releases. I've led QA for a
-sub-team of four at Aladia and a team of four at Nubred. On a reservation
-platform, my pre-release test plan caught guests being charged tax twice.
+I build modern, responsive web applications with a focus on clean code, intuitive user experiences, and reliable functionality. I enjoy turning ideas into practical digital products, developing user-focused interfaces, and building scalable applications across the frontend and backend.
 
-- **Test design:** test plans, cases traced to requirements, boundary and negative analysis
-- **Defects:** reproducible reports with evidence, triage, retest and regression
-- **API:** Postman, curl guard checks, Playwright API tests
-- **Automation:** Playwright, Vitest, Jest, React Testing Library, GitHub Actions quality gates
-- **Tracking:** Jira
+- **Frontend:** React, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** PostgreSQL, MongoDB
+- **Tools:** Git, GitHub, Postman, VS Code
+- **Testing:** Playwright, Vitest, Jest, React Testing Library
+- **Workflow:** Responsive design, API integration, debugging, performance optimization
 
-📧 solomon.muhye.wd@gmail.com · [LinkedIn](https://linkedin.com/in/solomonmuhye)
+📧 **Email:** solomon.muhye.wd@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/solomonmuhye](https://linkedin.com/in/solomonmuhye)
