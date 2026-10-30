@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Software Engineer · Full-Stack Web Developer</b><br/>
-  I turn designs into dependable, production-grade products.
+  your technical partner.
 </p>
 
 <p align="center">
