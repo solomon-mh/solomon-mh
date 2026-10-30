@@ -2,11 +2,12 @@
 
 <p align="center">
   <b>Software Engineer · Full-Stack Web Developer</b><br/>
-  your technical partner.
+  <br/>
+  <i><samp>Your Technical Partner in Building What's Next.</samp></i>
 </p>
 
 <p align="center">
-  Lead Developer at Eagle Tech Apps.
+  Lead Developer at Eagle Tech Apps
 </p>
 
 <p align="center">
