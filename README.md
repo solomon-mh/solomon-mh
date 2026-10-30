@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Lead Developer at Eagle Tech Apps · Addis Ababa, Ethiopia
+  Lead Developer at Eagle Tech Apps.
 </p>
 
 <p align="center">
