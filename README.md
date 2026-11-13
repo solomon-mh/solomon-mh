@@ -9,9 +9,7 @@
 <img src="./assets/h-case-files.svg" width="100%" alt="Case files"/>
 
 <a href="https://github.com/solomon-mh/gitTrace"><img src="./assets/case-gittrace.svg" width="100%" alt="Case 0x01: gitTrace, org health for GitHub: commit flow, PR age, stale branches. Next.js, GraphQL, Recharts."/></a>
-<a href="https://work.solomonmuhye.et"><img src="./assets/case-traceon.svg" width="100%" alt="Case 0x02: traceOn, a browser extension designed and built end to end."/></a>
-<a href="https://preview.nubred.com"><img src="./assets/case-nubred.svg" width="100%" alt="Case 0x03: NuBred, a certification platform for breeders, growers and retailers, built from Figma to production."/></a>
-<a href="https://work.solomonmuhye.et"><img src="./assets/more.svg" width="100%" alt="All case files at work.solomonmuhye.et"/></a>
+<img src="./assets/case-traceon.svg" width="100%" alt="Case 0x02: traceOn, a browser extension designed and built end to end."/>
 
 <img src="./assets/h-loadout.svg" width="100%" alt="Loadout"/>
 
@@ -22,9 +20,8 @@
 <img src="./assets/h-channel.svg" width="100%" alt="Open channel"/>
 
 <p align="center">
-  <a href="https://work.solomonmuhye.et"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio: work.solomonmuhye.et"/></a>
-  <a href="https://linkedin.com/in/solomonmuhye"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn: in/solomonmuhye"/></a>
-  <a href="mailto:solomon.muhye.wd@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="Email: solomon.muhye.wd@gmail.com"/></a>
+  <a href="https://linkedin.com/in/solomonmuhye"><img src="./assets/btn-linkedin.svg" width="40%" alt="LinkedIn: in/solomonmuhye"/></a>
+  <a href="mailto:solomon.muhye.wd@gmail.com"><img src="./assets/btn-email.svg" width="40%" alt="Email: solomon.muhye.wd@gmail.com"/></a>
 </p>
 
 <img src="./assets/footer.svg" width="100%" alt=""/>

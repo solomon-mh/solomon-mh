@@ -41,8 +41,9 @@ LINE = "#27272D"
 PAPER = "#F4F4F5"
 MUTED = "#A1A1AA"
 SUBTLE = "#70707A"
-SKY = "#38BDF8"
-GREEN = "#34D399"
+SKY = "#34D399"    # primary green (text accents)
+GREEN = "#BEF264"  # lime highlight
+G1, G2 = "#10B981", "#A3E635"  # emerald -> lime trace gradient
 
 
 # ── type ───────────────────────────────────────────────────────────────────
@@ -130,7 +131,7 @@ def svg(w, h, body, title, defs=""):
 
 GRAD = (
     f'<linearGradient id="tr" x1="0" y1="1" x2="1" y2="0">'
-    f'<stop offset="0" stop-color="{SKY}"/><stop offset="1" stop-color="{GREEN}"/></linearGradient>'
+    f'<stop offset="0" stop-color="{G1}"/><stop offset="1" stop-color="{G2}"/></linearGradient>'
 )
 MOTION = (
     "@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}"
@@ -376,8 +377,6 @@ PROJECTS = [
          tags=["NEXT.JS", "GRAPHQL", "RECHARTS"], sel=True, x=58, file="case-gittrace"),
     dict(n="0x02", title="traceOn", desc="Browser extension, designed and built end to end",
          tags=["EXTENSION", "TYPESCRIPT"], x=92, file="case-traceon"),
-    dict(n="0x03", title="NuBred", desc="Certification platform for breeders, growers and retailers",
-         tags=["FIGMA TO PROD", "PILOT"], x=72, file="case-nubred"),
 ]
 
 
@@ -487,7 +486,7 @@ def footer() -> str:
         b.append(f'<rect x="{x - s / 2}" y="{y - s / 2}" width="{s}" height="{s}" rx="1.5" fill="url(#trh)"/>')
     b.append(text(MONO, "EOT  ·  SM // ADDIS ABABA", 10.5, 980, 44, SUBTLE, anchor="end", tracking=1.4)[0])
     defs = (f'<linearGradient id="trh" gradientUnits="userSpaceOnUse" x1="20" y1="0" x2="760" y2="0">'
-            f'<stop offset="0" stop-color="{SKY}"/><stop offset="1" stop-color="{GREEN}"/></linearGradient>')
+            f'<stop offset="0" stop-color="{G1}"/><stop offset="1" stop-color="{G2}"/></linearGradient>')
     return svg(W, H, "".join(b), "End of transmission", defs)
 
 
@@ -504,9 +503,7 @@ def main():
         "h-channel.svg": header("OPEN CHANNEL", "pfskpaspkfmp", [-2, 3, -3, 2, -4, 3, -2, 4, -3, 2, 3, -2],
                                 "// SAY HELLO", 9),
         "loadout.svg": loadout(),
-        "more.svg": more_bar(),
-        "btn-portfolio.svg": button("PORTFOLIO", "work.solomonmuhye.et", "trace"),
-        "btn-linkedin.svg": button("LINKEDIN", "in/solomonmuhye", "paper"),
+        "btn-linkedin.svg": button("LINKEDIN", "in/solomonmuhye", "trace"),
         "btn-email.svg": button("EMAIL", "solomon.muhye.wd@gmail.com", "ink"),
         "footer.svg": footer(),
     }
