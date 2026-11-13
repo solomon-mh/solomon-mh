@@ -1,49 +1,37 @@
-<h1 align="center">Solomon Muhye</h1>
-
 <p align="center">
-  <b>Software Engineer · Full-Stack Web Developer</b><br/>
-  <br/>
-  <i><samp>Your Technical Partner in Building What's Next.</samp></i>
+  <img src="./assets/hero.svg" width="100%" alt="Solomon Muhye, full-stack software engineer. React, TypeScript, Node.js, PostgreSQL, Playwright. Based in Addis Ababa, shipping since 2020."/>
 </p>
 
 <p align="center">
-  Lead Developer at Eagle Tech Apps
+  <img src="./assets/about.svg" width="100%" alt="I'm a full-stack engineer from Addis Ababa, shipping since 2020. I lead development at Eagle Tech Apps, taking products from a Figma file to production with React, TypeScript and Node on PostgreSQL, tested end to end with Playwright. Lately I'm going deeper into security and building tools that trace what's really happening in a codebase."/>
 </p>
+
+<img src="./assets/h-case-files.svg" width="100%" alt="Case files"/>
+
+<a href="https://github.com/solomon-mh/gitTrace"><img src="./assets/case-gittrace.svg" width="100%" alt="Case 0x01: gitTrace, org health for GitHub: commit flow, PR age, stale branches. Next.js, GraphQL, Recharts."/></a>
+<a href="https://work.solomonmuhye.et"><img src="./assets/case-traceon.svg" width="100%" alt="Case 0x02: traceOn, a browser extension designed and built end to end."/></a>
+<a href="https://preview.nubred.com"><img src="./assets/case-nubred.svg" width="100%" alt="Case 0x03: NuBred, a certification platform for breeders, growers and retailers, built from Figma to production."/></a>
+<a href="https://work.solomonmuhye.et"><img src="./assets/more.svg" width="100%" alt="All case files at work.solomonmuhye.et"/></a>
+
+<img src="./assets/h-loadout.svg" width="100%" alt="Loadout"/>
 
 <p align="center">
-  <a href="https://solomon.is-a.dev/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=58A6FF" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/solomonmuhye"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/></a>
-  <a href="mailto:solomon.muhye.wd@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=58A6FF" alt="Email"/></a>
+  <img src="./assets/loadout.svg" width="100%" alt="Frontend: React, Next.js, Vue, TypeScript, Tailwind. Backend: Node.js, Express, PostgreSQL, MongoDB. Testing: Playwright, Vitest, Jest, Testing Library. Tooling: Git, Figma, Postman, Linux. On the radar: application security, OWASP Top 10."/>
 </p>
 
----
-
-## About
-
-I lead development at Eagle Tech Apps, taking products from Figma to production across the frontend and backend. I care about clean architecture, tested code, and interfaces that feel effortless to use.
-
-- Full-stack delivery with React, Next.js, TypeScript, Node.js, and PostgreSQL
-- Design-to-product implementation, from marketing sites to complex platforms
-- Reliability through unit, integration, and end-to-end testing
-- API design, integration, debugging, and performance optimization
-
-## Skills
-
-| | |
-| :-- | :-- |
-| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,vue,ts,js,html,css,tailwind&theme=dark" alt="Frontend"/> |
-| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend"/> |
-| **Databases** | <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="Databases"/> |
-| **Testing** | <img src="https://skillicons.dev/icons?i=playwright,vitest,jest&theme=dark" alt="Testing"/> |
-| **Tools and Design** | <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,figma&theme=dark" alt="Tools and design"/> |
-
-## GitHub Activity
+<img src="./assets/h-channel.svg" width="100%" alt="Open channel"/>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=solomon-mh&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&hide_border=true" alt="Contribution streak"/>
+  <a href="https://work.solomonmuhye.et"><img src="./assets/btn-portfolio.svg" width="32%" alt="Portfolio: work.solomonmuhye.et"/></a>
+  <a href="https://linkedin.com/in/solomonmuhye"><img src="./assets/btn-linkedin.svg" width="32%" alt="LinkedIn: in/solomonmuhye"/></a>
+  <a href="mailto:solomon.muhye.wd@gmail.com"><img src="./assets/btn-email.svg" width="32%" alt="Email: solomon.muhye.wd@gmail.com"/></a>
 </p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=solomon-mh&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-mh&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages"/>
-</p>
+<img src="./assets/footer.svg" width="100%" alt=""/>
+
+<!--
+  Every image above is generated by scripts/render.py (text is baked into vector
+  paths, so it renders identically everywhere). Edit the copy in that file, then:
+      pip install fonttools && python scripts/render.py
+  .github/workflows/refresh-profile.yml re-renders the hero stats once a day.
+-->
