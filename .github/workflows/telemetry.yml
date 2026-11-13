@@ -1,15 +1,19 @@
-name: Refresh profile
+name: Telemetry
 
 on:
   schedule:
-    - cron: "17 3 * * *" # daily, 06:17 Addis Ababa
+    - cron: "23 */3 * * *" # every 3 hours
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/**"]
+    paths: ["scripts/**", "README.md"]
 
 permissions:
   contents: write
+
+concurrency:
+  group: telemetry
+  cancel-in-progress: true
 
 jobs:
   render:
@@ -23,11 +27,11 @@ jobs:
 
       - run: pip install fonttools
 
-      - name: Pull live stats and re-render
+      - name: Pull live data and re-render
         run: python scripts/render.py --refresh
         env:
-          # Optional: add a PROFILE_TOKEN secret (classic PAT, read:user) if you
-          # want private contributions counted exactly like your profile shows.
+          # Optional: a PROFILE_TOKEN secret (classic PAT with read:user and repo)
+          # also counts private repos' languages. The default token sees public data.
           GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit if anything changed
@@ -35,4 +39,4 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets stats.json
-          git diff --cached --quiet || (git commit -m "chore: refresh profile stats" && git push)
+          git diff --cached --quiet || (git commit -m "telemetry: refresh" && git push)
